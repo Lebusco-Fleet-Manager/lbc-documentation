@@ -18,4 +18,6 @@ export default defineConfig({
       ],
     }),
   ],
+  site: "https://Lebusco-Fleet-Manager.github.io",
+  base: "lbc-documentation",
 });

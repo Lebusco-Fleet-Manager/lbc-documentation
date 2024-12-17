@@ -10,7 +10,7 @@ URL base: https://mzmyuhyfqrbpjnmanxag.supabase.co/rest/v1/apikey={token}
 El `token` debe ser solicitado para la autorización.
 
 Enviar la posición de las unidades al endpoint
-[/unit_pos](https://mzmyuhyfqrbpjnmanxag.supabase.co/rest/v1/unit_pos?apikey={token})
+`/unit_pos` https://mzmyuhyfqrbpjnmanxag.supabase.co/rest/v1/unit_pos?apikey={token}
 con el metodo `POST` en formato `JSON`. Ejemplo:
 
 ```json
