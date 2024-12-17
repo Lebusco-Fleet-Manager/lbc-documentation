@@ -16,7 +16,7 @@ export default defineConfig({
           autogenerate: { directory: "intrant" },
         },
       ],
-      favicon: "public/favicon.ico",
+      favicon: "/favicon.ico",
     }),
   ],
   site: "https://Lebusco-Fleet-Manager.github.io",
