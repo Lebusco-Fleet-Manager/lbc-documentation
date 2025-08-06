@@ -15,6 +15,29 @@ export default defineConfig({
           label: "Intrant",
           autogenerate: { directory: "intrant" },
         },
+        {
+          label: "Lebusco",
+          items: [
+            {
+              label: "Precintos",
+              items: [
+                {
+                  label: "Estados",
+                  items: [
+                    { label: "Firma", slug: "lebusco/precintos/estados/sign" },
+                  ],
+                },
+                {
+                  label: "Naves",
+                  items: [
+                    { label: "", slug: "lebusco/precintos/naves/formulario" },
+                    { label: "", slug: "lebusco/precintos/naves/table" },
+                  ],
+                },
+              ],
+            },
+          ],
+        },
       ],
       favicon: "/favicon.ico",
     }),
