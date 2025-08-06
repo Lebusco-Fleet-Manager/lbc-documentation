@@ -23,4 +23,4 @@ La tabla consta de 7 columnas:
 
 #### Captura de la vista de la tabla de monitoreo
 
-![Formulario-Naves](/lbc-documentation/img/form_ship.png)
+![Formulario-Naves](/lbc-documentation/img/table_ship.png)
