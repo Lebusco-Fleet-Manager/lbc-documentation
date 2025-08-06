@@ -1,5 +1,5 @@
 ---
-title: Tabla de monitore
+title: Tabla de monitoreo
 description: Tabla para el monitoreo de las naves
 ---
 
